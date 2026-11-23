@@ -1,0 +1,50 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA1-Digest-Manifest: 157pS9aJYOXf5gjqVtsVP0aE+3I=
+X-Android-APK-Signed: 2, 3
+
+Name: AndroidManifest.xml
+SHA1-Digest: V2rkVHGKdxA4hr3mjNDPCnnvZBQ=
+
+Name: lib/arm64-v8a/libandroidx.graphics.path.so
+SHA1-Digest: qdPELWZ8G0EiUHhBZOMomwUjY54=
+
+Name: lib/arm64-v8a/libapp.so
+SHA1-Digest: Nmlq06GAmicVBQ04Ti2+b4lt4ZE=
+
+Name: lib/arm64-v8a/libc++_shared.so
+SHA1-Digest: i2zlW+2n4k30meIZCGUJPQUg3jI=
+
+Name: lib/arm64-v8a/libconscrypt_jni.so
+SHA1-Digest: GeHA6TedeNq2A/KB+C9cPed+aL4=
+
+Name: lib/arm64-v8a/libface_detector_v2_jni.so
+SHA1-Digest: g3fi45tbtB+rNepqvBi8iMVO0G8=
+
+Name: lib/arm64-v8a/libmaplibre.so
+SHA1-Digest: +ITYpoO0wMQhJYaGbeKE6gx528o=
+
+Name: lib/arm64-v8a/libmlkit_google_ocr_pipeline.so
+SHA1-Digest: M2jCLSR2ezeSZm/LF73BWGSLgaQ=
+
+Name: lib/arm64-v8a/libserial_port.so
+SHA1-Digest: 2HVqqK+sTWg5BRVVnZlGyurYYKA=
+
+Name: lib/arm64-v8a/libtensorflowlite_jni.so
+SHA1-Digest: 6K9MP4dfD0G74aMexI68p3/qYhU=
+
+Name: lib/arm64-v8a/libusb1.0.so
+SHA1-Digest: t9li6Y4viJT+Jkf2r5wHnbwwDm4=
+
+Name: lib/arm64-v8a/libuvcjni.so
+SHA1-Digest: /lhRS4lAsOvQ3apavdnrDj4ppkg=
+
+Name: lib/arm64-v8a/libvlc.so
+SHA1-Digest: fqiMVAet3rnpXXVXkCfKYbWmBJw=
+
+Name: lib/arm64-v8a/libvlcjni.so
+SHA1-Digest: HHl2xo67nwFWQgGYi5TMIOg/Hb8=
+
+Name: stamp-cert-sha256
+SHA1-Digest: Bs40BvDZ1xrbgQrPTD2x5w/NfHQ=
+

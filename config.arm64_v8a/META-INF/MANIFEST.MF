@@ -1,0 +1,47 @@
+Manifest-Version: 1.0
+
+Name: AndroidManifest.xml
+SHA1-Digest: 6JeMJyRvf0SdOVlMTAClHFLTB/A=
+
+Name: lib/arm64-v8a/libandroidx.graphics.path.so
+SHA1-Digest: 18F/y0SzCm7+idQ2qhAqvlLgCKY=
+
+Name: lib/arm64-v8a/libapp.so
+SHA1-Digest: zhEiRoHy3DrSJ1hpO640LBg91Ek=
+
+Name: lib/arm64-v8a/libc++_shared.so
+SHA1-Digest: T7QLnaqrtCWoQtY2k+/jgUiYyRA=
+
+Name: lib/arm64-v8a/libconscrypt_jni.so
+SHA1-Digest: p1cgt3451Q6W0ZNiNQnUFspTRqc=
+
+Name: lib/arm64-v8a/libface_detector_v2_jni.so
+SHA1-Digest: hkT1Ss7S9LMnumI2RitKlIYapDg=
+
+Name: lib/arm64-v8a/libmaplibre.so
+SHA1-Digest: CizbVo6JpuOy2rg6CBDkyvOfwZc=
+
+Name: lib/arm64-v8a/libmlkit_google_ocr_pipeline.so
+SHA1-Digest: vNENt14ohmbpT9CohTCqQbSnyUo=
+
+Name: lib/arm64-v8a/libserial_port.so
+SHA1-Digest: 45RMuB56RXMdYu9OLIl9MhUhbWU=
+
+Name: lib/arm64-v8a/libtensorflowlite_jni.so
+SHA1-Digest: bSzHuJnHyPPv9oACB/HpWgm7948=
+
+Name: lib/arm64-v8a/libusb1.0.so
+SHA1-Digest: fYBgjxDY5g9nWoJaosLttDFnHI8=
+
+Name: lib/arm64-v8a/libuvcjni.so
+SHA1-Digest: BmCPCy3ePP8VKcuZ3dtsUvvDlt4=
+
+Name: lib/arm64-v8a/libvlc.so
+SHA1-Digest: /6AC+WYrG2fbDIhz5+Ej9yOcpz4=
+
+Name: lib/arm64-v8a/libvlcjni.so
+SHA1-Digest: 71nthKvcjCF8BDlr9qaywgFaYEo=
+
+Name: stamp-cert-sha256
+SHA1-Digest: 5vTkm69vqAbusD/fho7oWwc7j+I=
+
